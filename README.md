@@ -8,9 +8,10 @@ Bridging **data science, visualization, and financial analytics** to turn comple
 
 ## About Me
 
-- MSc in Data Visualization (FHGR)  
+- MSc in Data Visualization (FHGR)
+- Chartered Fianancial Analyst (CFA)
 - Background in **finance & asset management**  
-- Experience in **performance reporting, analytics, and data-driven decision support**  
+- Experience in **performance analytics, investment reporting, and data-driven decision support**  
 - Strong focus on **real-world applications of data science**
 
 ---
