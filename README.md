@@ -1,12 +1,12 @@
 # selected-projects
 Selected projects in data visualization, analytics, and NLP, developed during my MSc studies and applied in real-world contexts.
-# 📊 Simon Kim — Data Analytics & Visualization Portfolio  
+# Simon Kim — Data Analytics & Visualization Portfolio  
 
 Bridging **data science, visualization, and financial analytics** to turn complex data into actionable insights.
 
 ---
 
-## 🔍 About Me
+## About Me
 
 - MSc in Data Visualization (FHGR)  
 - Background in **finance & asset management**  
@@ -15,11 +15,11 @@ Bridging **data science, visualization, and financial analytics** to turn comple
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
 ---
 
-### 🧠 Master’s Thesis (Ongoing)  
+### Master’s Thesis (Ongoing)  
 **Limits of Embedding-Based Topic Models**
 
 **Focus:**  
@@ -40,7 +40,7 @@ Not all data can be cleanly structured — this project investigates **when NLP 
 
 ---
 
-### 🤖 From Headlines to Insights  
+### From Headlines to Insights  
 **Domain-Specific NLP for Financial News Classification**
 
 **Objective:**  
@@ -59,7 +59,7 @@ Develop a **domain-adapted NLP model** to classify crude oil market headlines
 
 ---
 
-### 🛢️ Topic Identification in Oil Market News  
+### Topic Identification in Oil Market News  
 **Structured Classification of Financial Headlines**
 
 **Objective:**  
@@ -76,7 +76,7 @@ Identify and structure key drivers in crude oil news flow
 
 ---
 
-### 📊 Crypto Listing Events Dashboard  
+### Crypto Listing Events Dashboard  
 **Event-Driven Price Analysis**
 
 **Objective:**  
@@ -95,7 +95,7 @@ Analyze how listing announcements on crypto exchanges affect price behavior
 
 ---
 
-### 🌍 Air Quality & Weather Analytics Dashboard  
+### Air Quality & Weather Analytics Dashboard  
 **Long-Term Time Series Analysis (R / Shiny)**
 
 **Objective:**  
@@ -116,7 +116,7 @@ Analyze relationships between air pollution (PM10) and weather conditions
 
 ---
 
-## 🧠 Core Competencies
+## Core Competencies
 
 - Data Analytics & Visualization  
 - Natural Language Processing (NLP)  
@@ -127,7 +127,7 @@ Analyze relationships between air pollution (PM10) and weather conditions
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Python (pandas, NumPy, scikit-learn)  
 - NLP: spaCy, Hugging Face Transformers, BERTopic  
@@ -137,7 +137,7 @@ Analyze relationships between air pollution (PM10) and weather conditions
 
 ---
 
-## 💡 What I Bring
+## What I Bring
 
 - Ability to connect **data, models, and business context**
 - Experience turning **complex datasets into decision tools**
@@ -145,7 +145,7 @@ Analyze relationships between air pollution (PM10) and weather conditions
 
 ---
 
-## 📬 Contact
+## Contact
 
 - LinkedIn: https://www.linkedin.com/in/simon-kim-cfa-929a15211/ 
 - GitHub: (this repository)  
